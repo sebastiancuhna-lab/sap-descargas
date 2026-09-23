@@ -1,0 +1,28 @@
+{
+  "apk": "MicroTrader-v0.2-Testnet-debug.apk",
+  "size_bytes": 1460398,
+  "sha256": "cef100d7d09931c266571e0cdea6b959cb569311c820b1661399004c4ed1ff30",
+  "base64_length": 1947200,
+  "parts": [
+    {
+      "file": "part00.txt",
+      "chars": 400000
+    },
+    {
+      "file": "part01.txt",
+      "chars": 400000
+    },
+    {
+      "file": "part02.txt",
+      "chars": 400000
+    },
+    {
+      "file": "part03.txt",
+      "chars": 400000
+    },
+    {
+      "file": "part04.txt",
+      "chars": 347200
+    }
+  ]
+}
